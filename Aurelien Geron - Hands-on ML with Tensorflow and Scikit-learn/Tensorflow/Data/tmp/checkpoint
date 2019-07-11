@@ -1,0 +1,3 @@
+model_checkpoint_path: "C:\\Users\\Juninho\\MLProjects\\Study\\Aurelien Geron - Hands-on ML with Tensorflow and Scikit-learn\\Tensorflow\\Tensorflow\\Data\\tmp/my_model_final.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Juninho\\MLProjects\\Study\\Aurelien Geron - Hands-on ML with Tensorflow and Scikit-learn\\Tensorflow\\Tensorflow\\Data\\tmp/my_model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Juninho\\MLProjects\\Study\\Aurelien Geron - Hands-on ML with Tensorflow and Scikit-learn\\Tensorflow\\Tensorflow\\Data\\tmp/my_model_final.ckpt"
